@@ -43,7 +43,7 @@
 
     var tDiv = document.createElement("tbody");
     // creating the body by looping over 
-    for(var i = 1; i < 6; i++) {
+    for(var i = 1; i < 5; i++) {
         var tr = document.createElement("tr");
         var td1 = document.createElement("td");
         var td2 = document.createElement("td");
